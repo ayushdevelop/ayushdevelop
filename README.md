@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushdevelop
+- 👋 Hi, I’m Ayush Srivastava
 - 👀 I’m interested in ReactJS and its ecosystem
 - 🌱 I’m currently learning tricks and trade of Javascript, ReactJS and front-end development
 - 💞️ I’m looking to collaborate on Frontend or Fullstack projects
