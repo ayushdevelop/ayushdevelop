@@ -2,7 +2,7 @@
 - 👀 I’m interested in ReactJS and its ecosystem
 - 🌱 I’m currently learning tricks and trade of Javascript, ReactJS and front-end development
 - 💞️ I’m looking to collaborate on Frontend or Fullstack projects
-- 📫 You can reach me at contact.ayushsrivastava@gmail.com
+- 📫 You can reach me at contact.ayushsrivastava@gmail.com or https://twitter.com/srivayushh
 
 <!---
 ayushdevelop/ayushdevelop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
