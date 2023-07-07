@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Frontend or Fullstack projects
 - 📫 You can reach me at contact.ayushsrivastava@gmail.com or https://twitter.com/srivayushh
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayushdevelop)](https://github.com/ayushdevelop/github-readme-stats)
 
 
 <!---
